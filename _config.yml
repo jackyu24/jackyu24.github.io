@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Homepage"
+title                    : "Yifei Yu - Homepage"
 title_separator          : "-"
 name                     : &name "JackYu"
 description              : &description "JackYu's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -28,7 +28,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "A Ph.D candidate at HUST, with research interests in memory systems and architectures."
   location         : "Wuhan, China"
-  employer         : "Huazhong University of Science and Technology"
+  employer         : # "Huazhong University of Science and Technology"
   uri              : # URL
   email            : "JackYuCN0224@gmail.com" 
 
@@ -38,7 +38,7 @@ author:
   googlescholar    : # URL
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : # URL
+  orcid            : "https://orcid.org/0009-0005-5241-5763"
   semantic         : # URL
   ssrn             : # URL
   pubmed           : # URL
